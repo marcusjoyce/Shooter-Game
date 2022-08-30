@@ -1,7 +1,3 @@
-
-# TODO: get 5 closest asteroids
-# TODO: calculate neurons...
-
 import pygame
 import math
 import random
